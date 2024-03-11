@@ -20,12 +20,12 @@
 - react dom에서는 <li>태그를 업데이트 하게될 것이다
 - 하지만 어떠한 <li>태그가 업데이트 되었는지를 알지 못하여 모든 <li>태그를 업데이트 해준다 
 
-<img src='../image/dom_update.png' align='left'/>
+<img src='../image/dom_update.png' />
 
 
 - 만약 <li>태그가 매우 많아진다면 업데이트가 일어날 때마다 모든 항목이 업데이트가 되는 것은 비효율적이게 된다 
 
-<img src='../image/dom_update2.png' align='left' />
+<img src='../image/dom_update2.png' />
 
 
 - key값을 주게 된다면 해당 하는 <li>태그만이 업데이트가 된다 
